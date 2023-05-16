@@ -136,7 +136,7 @@
             <tr>
             <tr>
                 <th>Check</th>
-            <th>Nombre</th>
+                <th>Nombre</th>
                 <th>Correo</th>
                 <th>Password</th>
                 <th>Permisos</th>
