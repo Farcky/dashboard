@@ -109,7 +109,7 @@
 
     <div class="container-fluid">
 
-    <div class="col-xl-8 col-lg-13">
+    <div class="col-xl-13 col-lg-13">
                             <div class="card shadow mb-4">
                                 <!-- Card Header - Dropdown -->
                                 <div
@@ -128,7 +128,46 @@
                                 <div class="container text-left">
   <div class="row">
     <div class="col">
-
+    <table class="table">
+        <thead>
+            <tr>
+            <tr>
+                <th>Perfil</th>
+                <th>Opciones</th>
+                <th>Accesos</th>
+                
+            </tr>
+            </thead>
+            <tbody>
+                    
+                    <tr>
+                    <td>Super Admin</td>
+                    <td><select><option value="#" color="gray">Number</option>
+                    <option value="opcion1">1</option>
+                    <option value="opcion2">2</option>
+                    <option value="opcion3">3</option></select></p></td>
+                    <td><input type="checkbox">
+                    <input type="checkbox">
+                    <input type="checkbox">
+                    <input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                    <td>Erick</td>
+                    <td>erick@gmail.com</td>
+                    <td><input type="checkbox">
+                    <input type="checkbox">
+                    <input type="checkbox">
+                    <input type="checkbox"></td>
+                    </tr>
+                    <tr>
+                    <td>Erick</td>
+                    <td>erick@gmail.com</td>
+                    <td><input type="checkbox">
+                    <input type="checkbox">
+                    <input type="checkbox">
+                    <input type="checkbox"></td>
+                    </tr>
+    
     
    
 

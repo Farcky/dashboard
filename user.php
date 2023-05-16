@@ -178,7 +178,6 @@
                     <td>En Espera</td>
                     <td><a class="btn btn-primary" href="#" role="button">Actualizar</a></td>
                     </tr>
-                     
                 
                 
     </div>
